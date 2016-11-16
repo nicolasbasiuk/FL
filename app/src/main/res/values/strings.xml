@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FL</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dialog_use_monitor">Camera is already in use.\nUse Monitor instead?</string>
+    <string name="toggle">Toggle</string>
+    <string name="under_the_button">Under the button</string>
+    <string name="content_desc">content desc</string>
+</resources>
